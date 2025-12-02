@@ -1,0 +1,11 @@
+customer_id,name,age,account_type,balance,is_active,risk_score
+1001,Sofia,25,checking,5200.5,True,4
+1002,Lukas,34,savings,11200.1,True,6
+1003,Amina,29,checking,3400.2,False,3
+1004,Omar,41,checking,21800.0,True,5
+1005,Kwame,32,savings,670.0,False,6
+1006,Zuri,27,savings,44550.25,True,4
+1007,Hiroshi,45,checking,7800.0,True,7
+1008,Mei,23,checking,1500.0,False,1
+1009,Arun,31,savings,9400.75,True,3
+1010,Sakura,28,checking,21000.9,True,6

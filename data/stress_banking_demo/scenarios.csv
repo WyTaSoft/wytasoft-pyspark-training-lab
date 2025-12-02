@@ -1,0 +1,5 @@
+scenario,pd_multiplier,lgd_addon,rate_shock_bps
+Baseline,1.0,0.0,0
+Adverse,1.5,0.05,150
+Severe,2.5,0.1,300
+Idiosyncratic,2.0,0.02,50
